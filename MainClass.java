@@ -35,7 +35,7 @@ import javax.swing.JTextField;
 import javax.swing.SpinnerDateModel;
 import javax.swing.table.DefaultTableModel;
 
-public class hw3 {
+public class MainClass {
 
 	// The Main Class
 	public static void main(String[] args) throws IOException {
